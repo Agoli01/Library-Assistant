@@ -1,0 +1,13 @@
+.setup-button{
+	-fx-background-color: #A6ACAF;
+	-fx-text-fill: Black;
+}
+
+.setup-button:hover{
+	-fx-background-color: #0288D1;
+}
+
+.list-cell 
+{
+  -fx-font: 12pt "Arial";
+}
